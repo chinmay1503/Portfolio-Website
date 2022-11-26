@@ -1,0 +1,9 @@
+/* Projects Style */
+#projects {
+    margin-top: 50px;
+}
+
+#projects .card {
+    margin: 20px 0px;
+    box-shadow: 5px 10px;
+}

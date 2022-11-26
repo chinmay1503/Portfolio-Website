@@ -5,6 +5,7 @@
 
 .cc-experience .card {
   margin: 20px 0px;
+  box-shadow: 5px 10px;
 }
 
 .cc-experience .cc-experience-header {
