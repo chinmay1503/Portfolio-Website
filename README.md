@@ -11,6 +11,6 @@ Basically it contains isntructions on how to run a react app locally.
 
 ### References
 
-https://www.npmjs.com/package/react-multi-carousel
-https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
-Note: The comments in References section on the website is taken from recommendations which are present on my LinkedIn Profile (https://www.linkedin.com/in/chinmay15)
+- https://www.npmjs.com/package/react-multi-carousel
+- https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+- Note: The comments in References section on the website is taken from recommendations which are present on my LinkedIn Profile (https://www.linkedin.com/in/chinmay15)
