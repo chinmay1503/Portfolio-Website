@@ -19,11 +19,13 @@
   --red: #ff0000;
   --orange: #ffa500;
   --green: #006400;
+  --main-bg-color: #b3d6f5;
 }
 
 body {
   font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
   color: var(--gray1);
+  background-color: var(--main-bg-color);
 }
 
 /* Navbar style*/
