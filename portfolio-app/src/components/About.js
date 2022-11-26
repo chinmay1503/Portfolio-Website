@@ -2,6 +2,7 @@ import React from "react";
 import SectionHeading from "./SectionHeading";
 import Button from "./Button";
 import profile_pic from "../images/chinmay15.jpg";
+import "../css/about.css"
 
 const About = () => {
   return (

@@ -1,7 +1,7 @@
 import React from "react";
 import Project from "./Project";
 import SectionHeading from "./SectionHeading";
-import "../css/projects.css"
+import "../css/projects.css";
 
 let projects_info = require("../json/projects-info.json");
 
@@ -9,12 +9,10 @@ const Projects = () => {
   return (
     <div className="section" id="projects">
       <div className="container">
-        <div className="row">
-          <SectionHeading
-            headingCss="h4 text-center mb-4 title"
-            headingText="Projects"
-          />
-        </div>
+        <SectionHeading
+          headingCss="h4 text-center mb-4 title"
+          headingText="Projects"
+        />
 
         <>
           {projects_info.map((proj, index) => (

@@ -4,5 +4,6 @@
 }
 
 #skills .card {
+    margin-top: 20px;
     box-shadow: 5px 10px;
 }

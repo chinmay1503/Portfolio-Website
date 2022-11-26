@@ -1,0 +1,15 @@
+/* References Style */
+#reference {
+  margin: 50px 0px;
+}
+
+.cc-reference .card {
+  margin-top: 20px;
+  padding: 40px;
+  box-shadow: 5px 10px;
+}
+
+.cc-reference img {
+  height: 120px;
+  width: auto;
+}
