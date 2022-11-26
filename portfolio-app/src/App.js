@@ -1,11 +1,12 @@
 import './App.css';
+import Navbar from './components/Navbar'
 import About from './components/About';
 import EducationDetails from './components/EducationDetails';
-import Navbar from './components/Navbar'
-import Projects from './components/Projects';
-import References from './components/References';
-import Skills from './components/Skills';
 import WorkExperiences from './components/Work-Experiences';
+import Projects from './components/Projects';
+import Skills from './components/Skills';
+import References from './components/References';
+import ContactForm from './components/ContactForm';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Projects />
         <Skills />
         <References />
+        <ContactForm />
       </div>
     </div>
   );
