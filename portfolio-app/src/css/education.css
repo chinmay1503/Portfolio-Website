@@ -6,11 +6,14 @@
 .cc-education .card {
   margin: 20px 0px;
 }
+
 .cc-education .h5 {
-  margin-bottom: 0; }
+  margin-bottom: 0;
+}
 
 .cc-education .cc-education-header {
   padding-top: 60px;
   padding-right: 0;
   text-align: center;
-  color: #fff; }
+  color: #fff;
+}
