@@ -2,6 +2,7 @@ import './App.css';
 import About from './components/About';
 import EducationDetails from './components/EducationDetails';
 import Navbar from './components/Navbar'
+import WorkExperiences from './components/Work-Experiences';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <div className="profile-content">
         <About />
         <EducationDetails />
+        <WorkExperiences />
       </div>
     </div>
   );
